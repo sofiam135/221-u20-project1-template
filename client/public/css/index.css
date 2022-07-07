@@ -1,13 +1,16 @@
 body {
-	
+  background-image: url("https://n.pr/3Ij1tfs");
+  background-repeat: no-repeat;
+  background-color: rgb(0, 0, 0);
+  background-position: center top;
 }
 
 #splash_title {
 	width: 100%;
   font-size: 100px;
-  color: red;
+  color: rgb(0, 0, 0);
   opacity: 0.85;
-  text-shadow: 4px 4px 4px rgba(255, 255, 255);
+  text-shadow: 4px 4px 4px rgb(10, 10, 10);
   text-align: center;
 }
 
